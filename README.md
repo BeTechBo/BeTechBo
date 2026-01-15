@@ -28,7 +28,7 @@ I bridge the gap between complex theory and practical application. Outside of bu
 ### 💼 Professional Experience
 * **AI Engineer Intern @ NYZ Technologies:** Deployed customer service AI agents and optimized Hugging Face pipelines using speech-to-speech architectures.
 * **Software Developer Intern @ Hassan Allam Properties:** Built a customer-facing app with biometric auth and chatbot integration.
-* **Library Developer Intern @ AUC:** Developed a facial recognition tool to detect and cluster faces in archival photographs.
+* **AI Developer Intern @ AUC Library:** Developed a facial recognition tool to detect and cluster faces in archival photographs.
 
 ---
 
