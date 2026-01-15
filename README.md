@@ -40,6 +40,6 @@ I bridge the gap between complex theory and practical application. Outside of bu
 ---
 
 ### 📫 Connect with Me
-* [LinkedIn](YOUR_LINKEDIN_URL_HERE)
-* [YouTube Channel (Be Tech Bo)](YOUR_YOUTUBE_LINK_HERE)
-* [Email](mailto:YOUR_EMAIL_HERE)
+* [LinkedIn](https://www.linkedin.com/in/ebram-raafat-thabet/)
+* [YouTube Channel (Be Tech Bo)](https://www.youtube.com/c/betechbo)
+* [Email](mailto:ebram_raafat@aucegypt.edu)
