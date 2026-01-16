@@ -14,13 +14,16 @@ I bridge the gap between complex theory and practical application. Outside of bu
 
 ---
 
-Project,Description,Tech Stack
-Linux Process Manager,"A system tool to track memory/CPU usage, set resource alerts, and manage user profiles with memory-safe concurrency.",Rust
-RISC-V Processor,Developed a 3-stage pipelined RISC-V processor (RV32I) supporting 42 instructions with hardware hazard detection.,Verilog
-Word Embeddings (CBOW),New: Implemented a Neural Network from scratch (using NumPy) to generate word embeddings via the CBOW architecture.,"Python, NumPy"
-Sudoku Vision Solver,An intelligent solver using a custom Computer Vision pipeline (Contour Detection) and manual OCR to digitize puzzles.,"Python, OpenCV"
-Course Registration System,"A full-stack university registration platform with real-time updates, built using Scrum principles.","React, Node.js"
-Library Facial Recognition,New: Built a real-time biometric security tool for the AUC library to automate student entry logging and identification.,"Python, OpenCV"
+### 🔭 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Linux Process Manager** | A system tool to track memory/CPU usage, set resource alerts, and manage user profiles with memory-safe concurrency. | **Rust** |
+| **RISC-V Processor** | Developed a 3-stage pipelined RISC-V processor (RV32I) supporting 42 instructions with hardware hazard detection. | **Verilog** |
+| **Word Embeddings (CBOW)** | Implemented a Neural Network from scratch (using NumPy) to generate word embeddings via the CBOW architecture. | **Python, NumPy** |
+| **Sudoku Vision Solver** | An intelligent solver using a custom Computer Vision pipeline (Contour Detection) and **manual OCR** to digitize puzzles. | **Python, OpenCV** |
+| **Course Registration System** | A full-stack university registration platform with real-time updates, built using Scrum principles. | **React, Node.js** |
+| **Library Facial Recognition** | Built a real-time biometric security tool for the AUC library to automate student entry logging and identification. | **Python, OpenCV** |
 ---
 
 ### 💼 Professional Experience
